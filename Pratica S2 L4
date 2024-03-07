@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void print_menu;
+int gioca_partita;
+
+int main () 
+char scelta= {'0'};
+print_menu();
+if ()
+  {}
+printf ("Grazie per aver giocato, ci vediamo presto\n"); 
+return;
+
+void print_menu ()
+
