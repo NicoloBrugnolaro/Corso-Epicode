@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-int main(){
-    int num1, num2;
-    printf("scrivi il primo numero: ");
-    scanf("%d , &num1");
-    printf("Scrivi il secondo numero: ");
-    scanf("%d", &num2);
-    printf(lassoma di )
