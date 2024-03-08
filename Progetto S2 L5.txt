@@ -1,0 +1,29 @@
+Nicolò Brugnolaro 
+
+Progetto S2/L5
+
+
+
+int main () 
+{
+	char scelta = {'\0'};
+
+Errore: {} non vanno inserite. 
+
+
+
+char scelta = {'\0'};
+	menu ();
+	scanf ("%d", &scelta);
+
+Errore: “d”, da sostituire con “c”. 
+
+
+
+void moltiplica ()
+{
+	short int  a,b = 0;
+
+Errore: “short”, da cancellare. 
+
+ 
