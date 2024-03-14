@@ -1,0 +1,12 @@
+Definizione di "backdoor"
+
+
+Una "backdoor" è una riga di codice che consente a un operatore di accedere a un sistema informatico o a un sito web, sia con autorizzazione che senza. Nel secondo caso, l'attaccante - hacker - può assumere il controllo completo del sistema o del sito, non limitandosi semplicemente a ottenere determinate informazioni. 
+
+Le backdoor possono essere classificate in almeno tre categorie:
+
+1. Shell inversa: una tecnica che consente agli attaccanti di eseguire comandi sul sistema della vittima. La connessione si origina dalla macchina sotto attacco verso quella dell'attaccante, che ha quindi accesso alla shell dei comandi.
+
+2. Trojan Remote Access (RAT): con questa tecnica, l'attaccante assume il controllo completo della macchina della vittima, e non solo l'accesso alla shell per i comandi.
+
+3. Botnet: una tecnica simile alla precedente, ma che prevede attacchi su vasta scala, consentendo il controllo completo di numerose macchine all'insaputa delle vittime. 
